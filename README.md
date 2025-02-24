@@ -5,12 +5,12 @@ PPCC-CD: Cross-Domain Plant Point Cloud Completion Based on Feature Low-Rank Map
 Contact: xiaomengli@cau.edu.cn Any questions or discussion are welcome!
 
 -----
-+ [2025.12.31] We have uploaded the dataset, which can be downloaded from the following link: https://drive.google.com/file/d/1uJoQVBfs39XP36-uaCVHlGGvPRQN9Qou/view?usp=drive_link.
++ [2025.12.31] We have uploaded the dataset, which can be downloaded from the following link: https://drive.google.com/file/d/1NjSIlX1obYQ0HNbU5oZRrEwV3z1pA1bX/view?usp=sharing.
 
 + [2025.12.31] We have initialized the repo. The related resources will be released after the manuscript is accepted.
 
 
-<img src="assets/PlantPCC.png" alt="Dataset" width="800" height="600">
+<img src="assets/PPCC-CD.png" alt="Dataset" width="800" height="600">
 
 
 
